@@ -1,24 +1,38 @@
+
+/* The asterisk selector below is known as the universal selector, applying the property to all elements on the page*/
+* {
+  color:purple;
+}
+
+div {
+  color: black;
+}
+
+.alert-text {
+  color:aqua;
+}
+
 h1 {
     background-color: #ff0000;
   }
   
-  h2 {
+h2 {
     background-color: #0000FF;
   }
   
-  h3 {
+h3 {
     background-color: #00FF00;
   }
 
-  h4 {
+h4 {
     background-color: #00FF00;
   }
 
-  h5 {
+h5 {
     background-color: #00FF00;
   }
   
-  em {
+em {
     background-color: #000000;
     color: #ffffff;
   }
